@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "1.0.0",
+  "format": "character-coding-workbook-spec",
+  "zeroPiiGuaranteed": true,
+  "compatibleRepos": [
+    "vovis7-an/pixicade-class",
+    "vovis7-an/dream-sketch-game",
+    "vovis7-an/dreamsketch-portfolio"
+  ],
+  "sessions": [
+    { "session": "01", "value": "호기심", "activityType": "question-starter", "codingMission": "아바타 및 시작 섬 도안" },
+    { "session": "02", "value": "주도성", "activityType": "bucketlist-starter", "codingMission": "목표 오브젝트 및 충돌 규칙" },
+    { "session": "03", "value": "감사", "activityType": "happiness-signals", "codingMission": "회복 아이템 및 몰입 블록" },
+    { "session": "04", "value": "열정", "activityType": "verb-signals", "codingMission": "캐릭터 이동·점프 액션 매핑" },
+    { "session": "05", "value": "끈기", "activityType": "passion-keywords", "codingMission": "장애물 돌파 및 재도전 루프" },
+    { "session": "06", "value": "창의성", "activityType": "expression-prompts", "codingMission": "포털·스위치 기믹 스테이지" },
+    { "session": "07", "value": "성실", "activityType": "strength-discovery", "codingMission": "동료 플레이테스트 및 디버깅" },
+    { "session": "08", "value": "소명", "activityType": "lifework-sentence", "codingMission": "오프닝·엔딩 스토리보드" },
+    { "session": "09", "value": "배움", "activityType": "lifework-model", "codingMission": "조력자 NPC 및 힌트 시스템" },
+    { "session": "10", "value": "지혜", "activityType": "lifework-book", "codingMission": "문장 단서 해독 게이트" },
+    { "session": "11", "value": "용기", "activityType": "lifework-place", "codingMission": "현장 탐험 최종 스테이지" },
+    { "session": "12", "value": "책임·나눔", "activityType": "future-backcasting", "codingMission": "A3 미래신문 2면 조판 및 전람회" }
+  ]
+}
