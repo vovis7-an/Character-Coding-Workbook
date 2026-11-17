@@ -1,6 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "format": "character-coding-workbook-spec",
+  "courseScopeNote": "웹 15회(pixicade-class) · 인성+코딩 워크북 12회(본 저장소) · 현장 15주 과정을 혼동하지 않고 분리 운영합니다.",
   "zeroPiiGuaranteed": true,
   "compatibleRepos": [
     "vovis7-an/pixicade-class",
@@ -8,17 +9,89 @@
     "vovis7-an/dreamsketch-portfolio"
   ],
   "sessions": [
-    { "session": "01", "value": "호기심", "activityType": "question-starter", "codingMission": "아바타 및 시작 섬 도안" },
-    { "session": "02", "value": "주도성", "activityType": "bucketlist-starter", "codingMission": "목표 오브젝트 및 충돌 규칙" },
-    { "session": "03", "value": "감사", "activityType": "happiness-signals", "codingMission": "회복 아이템 및 몰입 블록" },
-    { "session": "04", "value": "열정", "activityType": "verb-signals", "codingMission": "캐릭터 이동·점프 액션 매핑" },
-    { "session": "05", "value": "끈기", "activityType": "passion-keywords", "codingMission": "장애물 돌파 및 재도전 루프" },
-    { "session": "06", "value": "창의성", "activityType": "expression-prompts", "codingMission": "포털·스위치 기믹 스테이지" },
-    { "session": "07", "value": "성실", "activityType": "strength-discovery", "codingMission": "동료 플레이테스트 및 디버깅" },
-    { "session": "08", "value": "소명", "activityType": "lifework-sentence", "codingMission": "오프닝·엔딩 스토리보드" },
-    { "session": "09", "value": "배움", "activityType": "lifework-model", "codingMission": "조력자 NPC 및 힌트 시스템" },
-    { "session": "10", "value": "지혜", "activityType": "lifework-book", "codingMission": "문장 단서 해독 게이트" },
-    { "session": "11", "value": "용기", "activityType": "lifework-place", "codingMission": "현장 탐험 최종 스테이지" },
-    { "session": "12", "value": "책임·나눔", "activityType": "future-backcasting", "codingMission": "A3 미래신문 2면 조판 및 전람회" }
+    {
+      "session": "01",
+      "value": "존중",
+      "english": "respect",
+      "activityType": "value-card-01",
+      "codingMission": "다름을 인정하고 경청하는 캐릭터 대화·시작 섬 도안"
+    },
+    {
+      "session": "02",
+      "value": "우정",
+      "english": "friendship",
+      "activityType": "value-card-02",
+      "codingMission": "친구와 함께 통과하는 협동 목표 오브젝트 설계"
+    },
+    {
+      "session": "03",
+      "value": "공감",
+      "english": "empathy",
+      "activityType": "value-card-03",
+      "codingMission": "상대의 감정 신호를 읽고 반응하는 회복 아이템 매핑"
+    },
+    {
+      "session": "04",
+      "value": "도전",
+      "english": "challenge",
+      "activityType": "value-card-04",
+      "codingMission": "가슴 뛰는 신호등 미로와 새 경로 탐색 액션 설계"
+    },
+    {
+      "session": "05",
+      "value": "감사",
+      "english": "gratitude",
+      "activityType": "value-card-05",
+      "codingMission": "일상의 고마운 단서를 모으는 보물섬 스테이지"
+    },
+    {
+      "session": "06",
+      "value": "절제",
+      "english": "restraint",
+      "activityType": "value-card-06",
+      "codingMission": "규칙과 균형을 지켜 함정을 피하는 컨트롤 미션"
+    },
+    {
+      "session": "07",
+      "value": "인내",
+      "english": "patience",
+      "activityType": "value-card-07",
+      "codingMission": "반복 시도와 디버깅으로 완주하는 3홀 코스"
+    },
+    {
+      "session": "08",
+      "value": "정직",
+      "english": "honesty",
+      "activityType": "value-card-08",
+      "codingMission": "진실한 선택으로 열리는 오프닝·엔딩 게이트"
+    },
+    {
+      "session": "09",
+      "value": "자존감",
+      "english": "self-esteem",
+      "activityType": "value-card-09",
+      "codingMission": "나의 강점과 고유한 빛을 표현하는 마스터피스"
+    },
+    {
+      "session": "10",
+      "value": "책임",
+      "english": "responsibility",
+      "activityType": "value-card-10",
+      "codingMission": "맡은 역할을 끝까지 수행하는 조력자 NPC 미션"
+    },
+    {
+      "session": "11",
+      "value": "협동",
+      "english": "cooperation",
+      "activityType": "value-card-11",
+      "codingMission": "서로의 강점을 연결해 퍼즐을 푸는 팀워크 스테이지"
+    },
+    {
+      "session": "12",
+      "value": "사랑",
+      "english": "love",
+      "activityType": "value-card-12",
+      "codingMission": "배려와 나눔의 메시지를 전하는 학급 전람회 작품"
+    }
   ]
 }
